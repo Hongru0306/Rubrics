@@ -1,3 +1,8 @@
+## Structuring Human Objectives: A Survey of Rubrics for Evaluation, Alignment, and Agentic AI
+
+This repository provides an anonymized source list for the survey paper **“Structuring Human Objectives: A Survey of Rubrics for Evaluation, Alignment, and Agentic AI.”** It is intended solely to provide source references for the double-blind review process.
+
+
 ## Table of Contents
 
 <details open>
