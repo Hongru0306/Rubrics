@@ -236,11 +236,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Supervised%20Fine-Tuning&amp;color=9A7B5F&amp;style=flat-square" alt="Supervised Fine-Tuning">
 
 ###### 2025
-- 🌟 [[ICLR 26](https://openreview.net/forum?id=ST0wOB1bdX)] mR3: Multilingual Rubric-Agnostic Reward Reasoning Models [[Code](https://github.com/rubricreward/mr3)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Supervised%20Fine-Tuning&amp;color=9A7B5F&amp;style=flat-square" alt="Supervised Fine-Tuning"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[arXiv 2025.05](https://arxiv.org/abs/2505.13388)] R3: Robust Rubric-Agnostic Reward Models [[Code](https://github.com/rubricreward/r3)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Supervised%20Fine-Tuning&amp;color=9A7B5F&amp;style=flat-square" alt="Supervised Fine-Tuning"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
-- 🌟 [[ICLR 26](https://openreview.net/forum?id=1ZqJ6jj75q)] RM-R1: Reward Modeling as Reasoning [[Proj](https://rm-r1-uiuc.github.io/rmr1-site/)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Supervised%20Fine-Tuning&amp;color=9A7B5F&amp;style=flat-square" alt="Supervised Fine-Tuning"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 
 ###### 2023
