@@ -153,7 +153,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ##### 2025
 
-- 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.17314)] From Implicit Weights to Explicit Rubrics: A Training-Free Framework for Reward Modeling [[Code](https://github.com/agentscope-ai/OpenJudge)] <br>
+- 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.17314)] Auto-Rubric: Learning From Implicit Weights to Explicit Rubrics for Reward Modeling [[Code](https://github.com/agentscope-ai/OpenJudge)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation">
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.07284)] Online Rubrics Elicitation from Pairwise Comparisons  <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning">
