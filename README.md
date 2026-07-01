@@ -889,8 +889,5 @@ This repository provides an anonymized source list for the rubric survey paper. 
 ## LICENSE
 License information will be provided in the public version after the review period.
 
-## Contact
-If you have any questions or suggestions, please open an issue in this repository.
-
 
 
