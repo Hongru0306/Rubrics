@@ -9,7 +9,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 - [Data](#data)
   - [Expert-Based Annotation](#expert-based-annotation)
     - [Expert Requirement](#expert-requirement)
-    - [Expert Provider](#expert-provider)
+    - [Expert Annotator](#expert-annotator)
   - [Model-Based Annotation](#model-based-annotation)
     - [Naive Generation Analysis](#naive-generation-analysis)
     - [Pairs-Grounded Generation](#pairs-grounded-generation)
@@ -47,15 +47,15 @@ This repository provides an anonymized source list for the rubric survey paper. 
     - [Reasoning](#reasoning)
     - [Alignment](#alignment)
 - [Applications](#applications)
-  - [Domain](#domain-applications)
+  - [Domain](#domain)
     - [Medical](#medical)
     - [Writing and Retrieval](#writing-and-retrieval)
-    - [DeepResearch](#deepresearch)
+    - [Deep Research](#deep-research)
     - [Code](#code)
     - [General Agentic](#general-agentic)
-  - [Multimodal](#multimodal-applications)
-    - [Text + Vision](#text--vision)
-    - [Text + Audio](#text--audio)
+  - [Multimodal](#multimodal)
+    - [Text + Vision](#text-vision)
+    - [Text + Audio](#text-audio)
     - [Omni-modal](#omni-modal)
 
 </details>
@@ -80,29 +80,29 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.07244)] PresentBench: A Fine-Grained Rubric-Based Benchmark for Slide Generation [[Proj](https://presentbench.github.io/)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Creative%20Generation&amp;color=A16A5B&amp;style=flat-square" alt="Creative Generation">
-- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.16669)] PLAW BENCH: A Rubric-Based Benchmark for Evaluating LLMs in Real-World Legal Practice [[Code](https://github.com/SKYLENAGE-AI/PLawBench)] <br>
+- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.16669)] PLawBench: A Rubric-Based Benchmark for Evaluating LLMs in Real-World Legal Practice [[Code](https://github.com/SKYLENAGE-AI/PLawBench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Legal&amp;color=8A6F8F&amp;style=flat-square" alt="Legal">
 
 ##### 2025
 
 - 🌟 [[arXiv 2025.11](https://arxiv.org/abs/2511.11562)] PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning [[Proj](https://scale.com/research/prbench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
-- 🌟 [[ACL 26](https://arxiv.org/abs/2511.10507)] AdvancedIF: Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following [[Code](https://github.com/facebookresearch/AdvancedIF)] <br>
+- 🌟 [[arXiv 2025.11](https://arxiv.org/abs/2511.10507)] AdvancedIF: Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following [[Code](https://github.com/facebookresearch/AdvancedIF)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
-- 🌟 [[ICLR 26](https://openreview.net/forum?id=VwNzKPqBxk)] ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge [[Code](https://github.com/NVlabs/ProfBench)] <br>
+- 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.18941)] ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge [[Code](https://github.com/NVlabs/ProfBench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
 - 🌟 [[arXiv 2025.06](https://arxiv.org/abs/2506.01789)] Datasheets Aren't Enough: DataRubrics for Automated Quality Metrics and Accountability [[Proj](https://datarubrics.github.io/)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement">
 - 🌟 [[arXiv 2025.05](https://arxiv.org/abs/2505.08775)] HealthBench: Evaluating Large Language Models Towards Improved Human Health [[Proj](https://openai.com/index/healthbench/)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Medical&amp;color=4F9D8A&amp;style=flat-square" alt="Medical">
 
-#### Expert Provider
+#### Expert Annotator
 
 > These works release or organize expert-provided rubrics, checklists, or evaluation criteria as reusable assets for judging model outputs.
 
 ##### 2026
 
-- 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2604.02368)] XpertBench: Expert Level Tasks with Rubrics-Based Evaluation [[Proj](https://xpert.bytedance.com/)] <br>
+- 🌟 [[arXiv 2026.04](https://arxiv.org/abs/2604.02368)] Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation [[Proj](https://xpert.bytedance.com/)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration">
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.01562)] RubricBench: Aligning Model-Generated Rubrics with Human Standards [[Code](https://github.com/planepig/rubricbench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
@@ -137,7 +137,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ##### 2025
 
-- 🌟 [[ACL 26](https://arxiv.org/abs/2510.07743)] OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment [[Model](https://huggingface.co/OpenRubrics/RubricRM-4B-Rubric)] <br>
+- 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.07743)] OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment [[Model](https://huggingface.co/OpenRubrics/RubricRM-4B-Rubric)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Naive%20Generation%20Analysis&amp;color=4F6F73&amp;style=flat-square" alt="Naive Generation Analysis"> <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern">
 
 #### Pairs-Grounded Generation
@@ -155,7 +155,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 - 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.17314)] Auto-Rubric: Learning From Implicit Weights to Explicit Rubrics for Reward Modeling [[Code](https://github.com/agentscope-ai/OpenJudge)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation">
-- [[arXiv 2025.10](https://arxiv.org/abs/2510.07284)] Online Rubrics Elicitation from Pairwise Comparisons  <br>
+- 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.07284)] Online Rubrics Elicitation from Pairwise Comparisons [[Proj](https://scale.com/research/onlinerubrics)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning">
 - 🌟 [[ICLR 26](https://openreview.net/forum?id=c1bTcrDmt4)] Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains [[Data](https://huggingface.co/datasets/ScaleAI/RaR-Science)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern">
@@ -177,7 +177,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Iterative%20Refinement&amp;color=5B8FA1&amp;style=flat-square" alt="Iterative Refinement">
 - [[arXiv 2026.03](https://arxiv.org/abs/2603.00451)] Confusion-Aware Rubric Optimization for LLM-based Automated Grading <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Iterative%20Refinement&amp;color=5B8FA1&amp;style=flat-square" alt="Iterative Refinement">
-- [[ICLR 26](https://openreview.net/forum?id=aA2PXFH2Cp)] Rethinking Rubric Generation for Improving LLM Judge and Reward Modeling for Open-ended Tasks <br>
+- [[arXiv 2026.02](https://arxiv.org/abs/2602.05125)] Rethinking Rubric Generation for Improving LLM Judge and Reward Modeling for Open-ended Tasks <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Iterative%20Refinement&amp;color=5B8FA1&amp;style=flat-square" alt="Iterative Refinement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning">
 - [[arXiv 2026.01](https://arxiv.org/abs/2601.18706)] Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Iterative%20Refinement&amp;color=5B8FA1&amp;style=flat-square" alt="Iterative Refinement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Medical&amp;color=4F9D8A&amp;style=flat-square" alt="Medical">
@@ -195,7 +195,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 #### 2026
 
-- 🌟 [[arXiv 2026.04](https://arxiv.org/abs/2604.02368)] XpertBench: Expert Level Tasks with Rubrics-Based Evaluation [[Proj](https://xpert.bytedance.com/)] <br>
+- 🌟 [[arXiv 2026.04](https://arxiv.org/abs/2604.02368)] Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation [[Proj](https://xpert.bytedance.com/)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration">
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.01562)] RubricBench: Aligning Model-Generated Rubrics with Human Standards [[Code](https://github.com/planepig/rubricbench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
@@ -254,7 +254,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Preference-Reward%20RL&amp;color=7F6B9B&amp;style=flat-square" alt="Preference-Reward RL">
 - [[arXiv 2026.04](https://arxiv.org/abs/2604.13029)] Visual Preference Optimization with Rubric Rewards <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Preference-Reward%20RL&amp;color=7F6B9B&amp;style=flat-square" alt="Preference-Reward RL"> <img src="https://img.shields.io/static/v1?label=&amp;message=Text%20%2B%20Vision&amp;color=9A6F7F&amp;style=flat-square" alt="Text + Vision">
-- 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.21362)] AdaRubric: Task-Adaptive Rubrics for LLM Agent Evaluation [[Code](https://github.com/alphadl/AdaRubrics)] <br>
+- 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.21362)] AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning [[Code](https://github.com/alphadl/AdaRubrics)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Preference-Reward%20RL&amp;color=7F6B9B&amp;style=flat-square" alt="Preference-Reward RL">
 - 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.14069)] Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric [[Code](https://github.com/Qwen-Applications/OpenRS)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Preference-Reward%20RL&amp;color=7F6B9B&amp;style=flat-square" alt="Preference-Reward RL">
@@ -312,7 +312,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Grader%20Analysis&amp;color=8A7A5F&amp;style=flat-square" alt="Rubric Grader Analysis"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning">
 - 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.01511)] Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training [[Model](https://huggingface.co/collections/OpenRubrics/rubricarm)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Preference-Reward%20RL&amp;color=7F6B9B&amp;style=flat-square" alt="Preference-Reward RL"> <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Grader%20Analysis&amp;color=8A7A5F&amp;style=flat-square" alt="Rubric Grader Analysis">
-- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.08654)] RULERS: Locked Rubrics and Evidence-Anchored Scoring for Robust LLM Evaluation [[Code](https://github.com/LabRAI/Rulers)] <br>
+- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.08654)] From Rubrics to Reliable Scores: Evidence-Grounded Text Evaluation with LLM Judges [[Code](https://github.com/LabRAI/Rulers)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Grader%20Analysis&amp;color=8A7A5F&amp;style=flat-square" alt="Rubric Grader Analysis">
 
 ###### 2025
@@ -549,12 +549,12 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ##### 2026
 
-- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.16669)] PLAW BENCH: A Rubric-Based Benchmark for Evaluating LLMs in Real-World Legal Practice [[Code](https://github.com/SKYLENAGE-AI/PLawBench)] <br>
+- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.16669)] PLawBench: A Rubric-Based Benchmark for Evaluating LLMs in Real-World Legal Practice [[Code](https://github.com/SKYLENAGE-AI/PLawBench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Legal&amp;color=8A6F8F&amp;style=flat-square" alt="Legal">
 
 ##### 2025
 
-- 🌟 [[arXiv 2025.11](https://arxiv.org/abs/2512.01020)] Evaluating Legal Reasoning Traces with Legal Issue Tree Rubrics [[Code](https://github.com/jinulee-v/LEGIT)] <br>
+- 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.01020)] Evaluating Legal Reasoning Traces with Legal Issue Tree Rubrics [[Code](https://github.com/jinulee-v/LEGIT)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Legal&amp;color=8A6F8F&amp;style=flat-square" alt="Legal">
 
 #### Office Labor
@@ -567,7 +567,9 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.07980)] $OneMillion-Bench: How Far are Language Agents from Human Experts? [[Data](https://huggingface.co/datasets/humanlaya-data-lab/OneMillion-Bench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
-- 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2604.02368)] Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation [[Proj](https://xpert.bytedance.com/)] <br>
+- 🌟 [[arXiv 2026.04](https://arxiv.org/abs/2604.02368)] Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation [[Proj](https://xpert.bytedance.com/)] <br>
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
+- 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.06486)] JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks [[Code](https://github.com/smiling-world/JADE)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
 
 ##### 2025
@@ -578,7 +580,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
 - 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.22143)] Benchmarking and Learning Real-World Customer Service Dialogue [[Proj](https://olamind-olabench.github.io/)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
-- 🌟 [[ICLR 26](https://arxiv.org/abs/2510.18941)] ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge [[Code](https://github.com/NVlabs/ProfBench)] <br>
+- 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.18941)] ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge [[Code](https://github.com/NVlabs/ProfBench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Requirement&amp;color=5F8A75&amp;style=flat-square" alt="Expert Requirement"> <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.04374)] GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks [[Data](https://huggingface.co/datasets/openai/gdpval)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
@@ -595,6 +597,8 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Academic&amp;color=9A7F55&amp;style=flat-square" alt="Academic">
 - [[arXiv 2026.01](https://arxiv.org/abs/2601.21165)] FrontierScience: Evaluating AI's Ability to Perform Expert-Level Scientific Tasks [[Data](https://huggingface.co/datasets/openai/frontierscience/tree/main)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Academic&amp;color=9A7F55&amp;style=flat-square" alt="Academic">
+- [[arXiv 2026.03](https://arxiv.org/abs/2603.00895)] Evaluating AI Grading on Real-World Handwritten College Mathematics: A Large-Scale Study Toward a Benchmark <br>
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Academic&amp;color=9A7F55&amp;style=flat-square" alt="Academic">
 
 ##### 2025
 
@@ -610,6 +614,10 @@ This repository provides an anonymized source list for the rubric survey paper. 
 ##### 2026
 
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.28407)] MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome [[Proj](https://miroeval-ai.github.io/website/)] <br>
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
+- [[arXiv 2026.02](https://arxiv.org/abs/2602.11685)] DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity [[Data](https://hf.co/datasets/perplexity-ai/draco)] <br>
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
+- [[arXiv 2026.02](https://arxiv.org/abs/2602.18446)] ReportLogic: Evaluating Logical Quality in Deep Research Reports <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.08536)] DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report [[Code](https://github.com/imlrz/DeepResearch-Bench-II)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
@@ -697,13 +705,13 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[LREC 26](https://arxiv.org/abs/2603.10303)] Is this Idea Novel? An Automated Benchmark for Judgment of Research Ideas [[Code](https://github.com/TimSchopf/RINoBench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
-- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.08654)] From Rubrics to Reliable Scores: Evidence-Grounded Text Evaluation with LLM Judges [[Code](https://anonymous.4open.science/r/Rulers_0525-3328/README.md)] <br>
+- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.08654)] From Rubrics to Reliable Scores: Evidence-Grounded Text Evaluation with LLM Judges [[Code](https://github.com/LabRAI/Rulers)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[ICLR 26](https://openreview.net/forum?id=ST0wOB1bdX)] mR3: Multilingual Rubric-Agnostic Reward Reasoning Models [[Code](https://github.com/rubricreward/mr3)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Supervised%20Fine-Tuning&amp;color=9A7B5F&amp;style=flat-square" alt="Supervised Fine-Tuning"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[ICLR 26](https://openreview.net/forum?id=1ZqJ6jj75q)] RM-R1: Reward Modeling as Reasoning [[Proj](https://rm-r1-uiuc.github.io/rmr1-site/)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Supervised%20Fine-Tuning&amp;color=9A7B5F&amp;style=flat-square" alt="Supervised Fine-Tuning"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
-- [[ICLR 26](https://openreview.net/forum?id=QOWYX3Q2XS)] MENLO: From Preferences to Proficiency – Evaluating and Modeling Native-like Quality Across 47 Languages [[Data](https://huggingface.co/datasets/facebook/menlo)] <br>
+- [[ICLR 26](https://openreview.net/forum?id=QOWYX3Q2XS)] MENLO: From Preferences to Proficiency - Evaluating and Modeling Native-like Quality Across 47 Languages [[Data](https://huggingface.co/datasets/facebook/menlo)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 
 ##### 2025
@@ -724,7 +732,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[arXiv 2024.10](https://arxiv.org/abs/2410.15553)] Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions Following [[Code](https://github.com/facebookresearch/Multi-IF)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
-- 🌟 [[ICLR 25](https://arxiv.org/abs/2410.12784)] JudgeBench: A Benchmark for Evaluating LLM-based Judges [[Code](https://github.com/ScalerLab/JudgeBench)] <br>
+- 🌟 [[arXiv 2024.10](https://arxiv.org/abs/2410.12784)] JudgeBench: A Benchmark for Evaluating LLM-based Judges [[Code](https://github.com/ScalerLab/JudgeBench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Grader%20Analysis&amp;color=8A7A5F&amp;style=flat-square" alt="Rubric Grader Analysis"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[arXiv 2024.02](https://arxiv.org/abs/2402.10260)] A StrongREJECT for Empty Jailbreaks [[Proj](https://strong-reject.readthedocs.io/en/latest/)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
@@ -778,7 +786,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 - [[ICTIR 24](https://openreview.net/forum?id=b6TSaRWbvg)] Pencils Down! Automatic Rubric-based Evaluation of Retrieve/Generate Systems <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Writing%20%26%20Retrieval&amp;color=9B6F8F&amp;style=flat-square" alt="Writing & Retrieval">
 
-#### DeepResearch
+#### Deep Research
 
 > DeepResearch applications use rubrics to supervise search, evidence chaining, report generation, and long-horizon research-agent optimization.
 
@@ -875,7 +883,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ##### 2026
 
-- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2602.00846)] Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis [[Code](https://anonymous.4open.science/r/Omni-RRM-CC08)] <br>
+- 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.00846)] Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis [[Code](https://anonymous.4open.science/r/Omni-RRM-CC08)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Omni-modal&amp;color=5E548E&amp;style=flat-square" alt="Omni-modal">
 
 
@@ -884,6 +892,14 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ## LICENSE
 License information will be provided in the public version after the review period.
+
+
+
+
+
+
+
+
 
 
 
