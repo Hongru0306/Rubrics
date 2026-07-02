@@ -47,7 +47,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
     - [Reasoning](#reasoning)
     - [Alignment](#alignment)
 - [Applications](#applications)
-  - [Domain](#domain)
+  - [Domains](#domains)
     - [Medical](#medical)
     - [Writing and Retrieval](#writing-and-retrieval)
     - [Deep Research](#deep-research)
@@ -742,7 +742,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 > Applications use rubrics as practical task interfaces: they guide generation, evaluation, training, or refinement in concrete systems rather than only proposing benchmarks.
 
-### Domain
+### Domains
 
 > Domain applications apply rubrics within specific task settings such as healthcare, writing, retrieval, deep research, code, and agent workflows.
 
