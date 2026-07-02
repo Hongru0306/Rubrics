@@ -103,20 +103,20 @@ This repository provides an anonymized source list for the rubric survey paper. 
 ##### 2026
 
 - 🌟 [[arXiv 2026.04](https://arxiv.org/abs/2604.02368)] Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation [[Proj](https://xpert.bytedance.com/)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration">
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.01562)] RubricBench: Aligning Model-Generated Rubrics with Human Standards [[Code](https://github.com/planepig/rubricbench)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 
 ##### 2025
 
 - 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.04921)] The AI Consumer Index (ACE) [[Proj](https://www.mercor.com/apex/ace-leaderboard/)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider">
-- 🌟 [[ICLR 26](https://openreview.net/forum?id=ErnvfmSX0P)] RESEARCH RUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents [[Proj](https://labs.scale.com/papers/researchrubrics)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator">
+- 🌟 [[ICLR 26](https://openreview.net/forum?id=ErnvfmSX0P)] ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents [[Proj](https://labs.scale.com/papers/researchrubrics)] <br>
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator">
 - 🌟 [[arXiv 2025.09](https://arxiv.org/abs/2509.25721)] The AI Productivity Index: APEX-v1-extended [[Proj](https://www.mercor.com/apex/)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator">
 - 🌟 [[ICLR 26](https://openreview.net/forum?id=nJvgBolRcR)] ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists [[Proj](https://huggingface.co/spaces/launch/ExpertLongBench)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator"> <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
 
 ### Model-Based Annotation
 
@@ -149,7 +149,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.08035)] CDRRM: Contrast-Driven Rubric Generation for Reliable and Interpretable Reward Modeling [[Code](https://github.com/ldcan/CDRRM.git)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation">
 - 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.03619)] Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation [[Model](https://huggingface.co/fdu-lcz/rubric_generator)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=DeepResearch&amp;color=4E6EAD&amp;style=flat-square" alt="DeepResearch">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 
 ##### 2025
 
@@ -196,9 +196,9 @@ This repository provides an anonymized source list for the rubric survey paper. 
 #### 2026
 
 - 🌟 [[arXiv 2026.04](https://arxiv.org/abs/2604.02368)] Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation [[Proj](https://xpert.bytedance.com/)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration">
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.01562)] RubricBench: Aligning Model-Generated Rubrics with Human Standards [[Code](https://github.com/planepig/rubricbench)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.09653)] ClinAlign: Scaling Healthcare Alignment from Clinician Preference [[Code](https://github.com/AQ-MedAI/ClinAlign)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Medical&amp;color=4F9D8A&amp;style=flat-square" alt="Medical">
 
@@ -279,7 +279,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 - 🌟 [[ICLR 26](https://openreview.net/forum?id=c1bTcrDmt4)] Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains [[Data](https://huggingface.co/datasets/ScaleAI/RaR-Science)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern">
 - 🌟 [[arXiv 2025.11](https://arxiv.org/abs/2511.19399)] DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research [[Code](https://github.com/rlresearch/dr-tulu)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning"> <img src="https://img.shields.io/static/v1?label=&amp;message=DeepResearch&amp;color=4E6EAD&amp;style=flat-square" alt="DeepResearch">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.14660)] An Efficient Rubric-based Generative Verifier for Search-Augmented LLMs [[Code](https://github.com/linyue-ma/Search-Gen-V)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern"> <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Grader%20Analysis&amp;color=8A7A5F&amp;style=flat-square" alt="Rubric Grader Analysis">
 - 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.07743)] OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment [[Model](https://huggingface.co/OpenRubrics/RubricRM-4B-Rubric)] <br>
@@ -379,11 +379,11 @@ This repository provides an anonymized source list for the rubric survey paper. 
 - 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.06487)] Technical Report Tongyi DeepResearch [[Code](https://github.com/Alibaba-NLP/qqr)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment">
 - 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.06021)] Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards [[Code](https://github.com/THUDM/CaRR)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=DeepResearch&amp;color=4E6EAD&amp;style=flat-square" alt="DeepResearch">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 
 ###### 2025
 - 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.20491)] Step-DeepResearch Technical Report [[Code](https://github.com/stepfun-ai/StepDeepResearch)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=DeepResearch&amp;color=4E6EAD&amp;style=flat-square" alt="DeepResearch">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.20312)] TableGPT-R1: Advancing Tabular Reasoning Through Reinforcement Learning [[Model](https://huggingface.co/tablegpt/TableGPT-R1)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment">
 - 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.07774)] Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards [[Code](https://github.com/YouliangYuan/rrm-cure-miracle-steps)] <br>
@@ -443,7 +443,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ###### 2025
 - 🌟 [[arXiv 2025.11](https://arxiv.org/abs/2511.19399)] DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research [[Code](https://github.com/rlresearch/dr-tulu)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning"> <img src="https://img.shields.io/static/v1?label=&amp;message=DeepResearch&amp;color=4E6EAD&amp;style=flat-square" alt="DeepResearch">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[arXiv 2025.10](https://arxiv.org/abs/2510.07284)] Online Rubrics Elicitation from Pairwise Comparisons [[Proj](https://scale.com/research/onlinerubrics)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning">
 - 🌟 [[arXiv 2025.08](https://arxiv.org/abs/2508.12790)] Reinforcement Learning with Rubric Anchors [[Model](https://huggingface.co/inclusionAI/Rubicon-Preview)] <br>
@@ -585,7 +585,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.04374)] GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks [[Data](https://huggingface.co/datasets/openai/gdpval)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
 - 🌟 [[ICLR 26](https://openreview.net/forum?id=nJvgBolRcR)] ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists [[Proj](https://huggingface.co/spaces/launch/ExpertLongBench)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator"> <img src="https://img.shields.io/static/v1?label=&amp;message=Office%20Labor&amp;color=A07C58&amp;style=flat-square" alt="Office Labor">
 
 #### Academic
 
@@ -702,7 +702,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 - [[arXiv 2026.03](https://arxiv.org/abs/2603.25133)] RubricEval: A Rubric-Level Meta-Evaluation Benchmark for LLM Judges in Instruction Following <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.01562)] RubricBench: Aligning Model-Generated Rubrics with Human Standards [[Code](https://github.com/planepig/rubricbench)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Provider&amp;color=7B6F86&amp;style=flat-square" alt="Expert Provider"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Expert%20Annotator&amp;color=7B6F86&amp;style=flat-square" alt="Expert Annotator"> <img src="https://img.shields.io/static/v1?label=&amp;message=Human-AI%20Collaboration&amp;color=5F8791&amp;style=flat-square" alt="Human-AI Collaboration"> <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[LREC 26](https://arxiv.org/abs/2603.10303)] Is this Idea Novel? An Automated Benchmark for Judgment of Research Ideas [[Code](https://github.com/TimSchopf/RINoBench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 - 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.08654)] From Rubrics to Reliable Scores: Evidence-Grounded Text Evaluation with LLM Judges [[Code](https://github.com/LabRAI/Rulers)] <br>
@@ -788,21 +788,21 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 #### Deep Research
 
-> DeepResearch applications use rubrics to supervise search, evidence chaining, report generation, and long-horizon research-agent optimization.
+> Deep Research applications use rubrics to supervise search, evidence chaining, report generation, and long-horizon research-agent optimization.
 
 ##### 2026
 
 - 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.03619)] Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation [[Model](https://huggingface.co/fdu-lcz/rubric_generator)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=DeepResearch&amp;color=4E6EAD&amp;style=flat-square" alt="DeepResearch">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.06021)] Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards [[Code](https://github.com/THUDM/CaRR)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=DeepResearch&amp;color=4E6EAD&amp;style=flat-square" alt="DeepResearch">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 
 ##### 2025
 
 - 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.20491)] Step-DeepResearch Technical Report [[Code](https://github.com/stepfun-ai/StepDeepResearch)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=DeepResearch&amp;color=4E6EAD&amp;style=flat-square" alt="DeepResearch">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[arXiv 2025.11](https://arxiv.org/abs/2511.19399)] DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research [[Code](https://github.com/rlresearch/dr-tulu)] <br>
-  <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning"> <img src="https://img.shields.io/static/v1?label=&amp;message=DeepResearch&amp;color=4E6EAD&amp;style=flat-square" alt="DeepResearch">
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 
 #### Code
 
@@ -892,6 +892,9 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ## LICENSE
 License information will be provided in the public version after the review period.
+
+
+
 
 
 
