@@ -16,7 +16,6 @@ This repository provides an anonymized source list for the rubric survey paper. 
     - [Iterative Refinement](#iterative-refinement)
   - [Human-AI Collaboration](#human-ai-collaboration)
 - [Training](#training)
-  - [Pre-training](#pre-training)
   - [Post-training](#post-training)
     - [Rubrics for Supervised FT](#rubrics-for-supervised-ft)
     - [Rubrics for Preference-Reward RL](#rubrics-for-preference-reward-rl)
@@ -216,12 +215,6 @@ This repository provides an anonymized source list for the rubric survey paper. 
 ## Training
 
 > This section covers methods that turn rubrics into training signals for models, reward models, evaluators, and agents.
-
-#### Pre-training
-
-> Pre-training work would use rubric-like supervision before task-specific alignment, preparing models for later rubric-guided evaluation or optimization.
-
-- No retained papers after full-text justification review.
 
 #### Post-training
 
