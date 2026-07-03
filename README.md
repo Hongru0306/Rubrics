@@ -69,7 +69,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ### Expert-Based Annotation
 
-> Expert-based annotation relies on domain specialists or expert-designed protocols when reliable rubrics require professional standards or task-specific expertise.
+> Expert-based annotation relies on domain specialists or expert annotation pipelines when reliable rubrics require professional standards or task-specific expertise.
 
 #### Expert Requirement
 
@@ -97,7 +97,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 #### Expert Annotator
 
-> These works release or organize expert-provided rubrics, checklists, or evaluation criteria as reusable assets for judging model outputs.
+> These works study how experts write, review, or validate rubrics so the resulting criteria remain reliable, reusable, and consistent for judging model outputs.
 
 ##### 2026
 
@@ -147,7 +147,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 - 🌟 [[arXiv 2026.03](https://arxiv.org/abs/2603.08035)] CDRRM: Contrast-Driven Rubric Generation for Reliable and Interpretable Reward Modeling [[Code](https://github.com/ldcan/CDRRM.git)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation">
-- 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.03619)] Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation [[Model](https://huggingface.co/fdu-lcz/rubric_generator)] <br>
+- 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.03619)] Learning Query-Specific Rubrics from Human Preferences for Deep Research Report Generation [[Model](https://huggingface.co/fdu-lcz/rubric_generator)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 
 ##### 2025
@@ -218,11 +218,11 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 #### Post-training
 
-> Post-training work applies rubrics after base-model training, using them for supervised fine-tuning, reward modeling, reinforcement learning, or self-improvement.
+> Post-training work applies rubrics after base-model training, using them for supervised fine-tuning, reward modeling, reinforcement learning, or advanced training.
 
 ##### Rubrics for Supervised FT
 
-> Rubrics can guide supervised fine-tuning by filtering examples, weighting samples, generating rationales, or teaching models to follow explicit criteria.
+> Rubrics can guide supervised fine-tuning by teaching models to produce criterion-aware scores, feedback, or rationales and to follow explicit evaluation criteria.
 
 ###### 2026
 - 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.02986)] P-Check: Advancing Personalized Reward Models via Learning to Generate Dynamic Checklists [[Code](https://github.com/tommyEzreal/P-Check_)] <br>
@@ -238,7 +238,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ##### Rubrics for Preference-Reward RL
 
-> Preference-reward methods use rubrics or criteria to structure preference data and train reward models, rather than directly optimizing a hand-written rubric score.
+> Preference-reward methods use rubrics or criteria to decompose preference pairs for scoring, filtering, reweighting, or distillation during policy optimization.
 
 ###### 2026
 - 🌟 [[arXiv 2026.05](https://arxiv.org/abs/2605.07396)] Rubric-based On-policy Distillation [[Code](https://github.com/Peregrine123/ROPD_official)] <br>
@@ -266,7 +266,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ###### Rubric Judgement Pattern
 
-> Rubric judgement pattern methods ask a judge, verifier, or rubric model to score outputs against explicit criteria and aggregate those judgments into rewards.
+> Rubric judgment pattern methods ask a judge, verifier, or rubric model to score outputs against explicit criteria and aggregate those judgments into rewards.
 
 ###### 2025
 - 🌟 [[ICLR 26](https://openreview.net/forum?id=c1bTcrDmt4)] Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains [[Data](https://huggingface.co/datasets/ScaleAI/RaR-Science)] <br>
@@ -375,7 +375,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 
 ###### 2025
-- 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.20491)] Step-DeepResearch Technical Report [[Code](https://github.com/stepfun-ai/StepDeepResearch)] <br>
+- 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.20491)] Step-Deep Research Technical Report [[Code](https://github.com/stepfun-ai/StepDeepResearch)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.20312)] TableGPT-R1: Advancing Tabular Reasoning Through Reinforcement Learning [[Model](https://huggingface.co/tablegpt/TableGPT-R1)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment">
@@ -408,7 +408,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ###### Curriculum Learning
 
-> Curriculum learning methods use rubric structure to order tasks, examples, or reward difficulty from easier criteria to harder ones.
+> Curriculum learning methods use rubric structure to stage criteria, capabilities, or failure types from easier requirements to harder ones during training.
 
 ###### 2026
 - [[arXiv 2026.02](https://arxiv.org/abs/2602.21628)] RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning <br>
@@ -602,7 +602,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 #### Deep Research
 
-> Deep research benchmarks evaluate long-form research agents or reports, emphasizing evidence coverage, citation quality, logical support, completeness, and objectivity.
+> Deep Research benchmarks evaluate long-form research agents or reports, emphasizing evidence coverage, citation quality, logical support, completeness, and objectivity.
 
 ##### 2026
 
@@ -612,7 +612,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
 - [[arXiv 2026.02](https://arxiv.org/abs/2602.18446)] ReportLogic: Evaluating Logical Quality in Deep Research Reports <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
-- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.08536)] DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report [[Code](https://github.com/imlrz/DeepResearch-Bench-II)] <br>
+- 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.08536)] Deep Research Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report [[Code](https://github.com/imlrz/DeepResearch-Bench-II)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
 
 ##### 2025
@@ -621,12 +621,12 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[ICLR 26](https://openreview.net/forum?id=ErnvfmSX0P)] ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents [[Proj](https://labs.scale.com/papers/researchrubrics)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
-- 🌟 [[arXiv 2025.06](https://arxiv.org/abs/2506.11763)] DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents [[Code](https://github.com/Ayanami0730/deep_research_bench)] <br>
+- 🌟 [[arXiv 2025.06](https://arxiv.org/abs/2506.11763)] Deep Research Bench: A Comprehensive Benchmark for Deep Research Agents [[Code](https://github.com/Ayanami0730/deep_research_bench)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4C8FA3&amp;style=flat-square" alt="Deep Research">
 
 #### Creative Generation
 
-> Creative generation benchmarks use rubrics to judge open-ended artifacts such as writing, tables, images, or videos along multiple quality dimensions.
+> Creative generation benchmarks use rubrics to judge open-ended artifacts such as writing, slides, and multimodal outputs along multiple quality dimensions.
 
 ##### 2026
 
@@ -688,7 +688,7 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 #### Alignment
 
-> Alignment benchmarks assess whether models or judges follow intended preferences, instructions, safety constraints, and consistency principles under explicit criteria.
+> Alignment benchmarks assess rubric quality, instruction following, safety behavior, and judge reliability under explicit criteria for intended preferences and constraints.
 
 ##### 2026
 
@@ -733,11 +733,11 @@ This repository provides an anonymized source list for the rubric survey paper. 
   <img src="https://img.shields.io/static/v1?label=&amp;message=Alignment&amp;color=9B6B6B&amp;style=flat-square" alt="Alignment">
 ## Applications
 
-> Applications use rubrics as practical task interfaces: they guide generation, evaluation, training, or refinement in concrete systems rather than only proposing benchmarks.
+> Applications use rubrics as practical task interfaces inside downstream systems, guiding generation, evaluation, training, or refinement rather than only proposing benchmarks.
 
 ### Domains
 
-> Domain applications apply rubrics within specific task settings such as healthcare, writing, retrieval, deep research, code, and agent workflows.
+> Domain applications use rubrics within specific downstream settings such as healthcare, writing, retrieval, deep research, code, and agent workflows.
 
 #### Medical
 
@@ -785,14 +785,14 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ##### 2026
 
-- 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.03619)] Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation [[Model](https://huggingface.co/fdu-lcz/rubric_generator)] <br>
+- 🌟 [[arXiv 2026.02](https://arxiv.org/abs/2602.03619)] Learning Query-Specific Rubrics from Human Preferences for Deep Research Report Generation [[Model](https://huggingface.co/fdu-lcz/rubric_generator)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Pairs-Grounded%20Generation&amp;color=9A8A58&amp;style=flat-square" alt="Pairs-Grounded Generation"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[arXiv 2026.01](https://arxiv.org/abs/2601.06021)] Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards [[Code](https://github.com/THUDM/CaRR)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 
 ##### 2025
 
-- 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.20491)] Step-DeepResearch Technical Report [[Code](https://github.com/stepfun-ai/StepDeepResearch)] <br>
+- 🌟 [[arXiv 2025.12](https://arxiv.org/abs/2512.20491)] Step-Deep Research Technical Report [[Code](https://github.com/stepfun-ai/StepDeepResearch)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Credit%20Assignment&amp;color=64748B&amp;style=flat-square" alt="Credit Assignment"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
 - 🌟 [[arXiv 2025.11](https://arxiv.org/abs/2511.19399)] DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research [[Code](https://github.com/rlresearch/dr-tulu)] <br>
   <img src="https://img.shields.io/static/v1?label=&amp;message=Rubric%20Judgement%20Pattern&amp;color=6D7FA3&amp;style=flat-square" alt="Rubric Judgement Pattern"> <img src="https://img.shields.io/static/v1?label=&amp;message=Self-Evolving%20Learning&amp;color=5F6F89&amp;style=flat-square" alt="Self-Evolving Learning"> <img src="https://img.shields.io/static/v1?label=&amp;message=Deep%20Research&amp;color=4E6EAD&amp;style=flat-square" alt="Deep Research">
@@ -885,6 +885,11 @@ This repository provides an anonymized source list for the rubric survey paper. 
 
 ## LICENSE
 License information will be provided in the public version after the review period.
+
+
+
+
+
 
 
 
